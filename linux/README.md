@@ -1,23 +1,4 @@
-# Table of Contents
-
-1.  [Software movements and philosophies](#org4ccec5c)
-    1.  [Open Source Initiative](#org1b0b1dc)
-    2.  [Free Software Movement](#org3896d22)
-    3.  [Proprietary softwares](#orga458d48)
-2.  [UNIX](#org603eae4)
-    1.  [UNIX Philosophy](#orgce9d735)
-3.  [Linux and/or GNU](#org7551ed2)
-    1.  [GNU](#org96167eb)
-    2.  [Linux](#orge8c5957)
-4.  [Essential Linux](#org776f265)
-    1.  [Distributions](#org8807cdf)
-    2.  [Ubuntu](#orge3ef540)
-
-<a id="org4ccec5c"></a>
-
 # Software movements and philosophies
-
-<a id="org1b0b1dc"></a>
 
 ## Open Source Initiative
 
@@ -27,7 +8,6 @@
 - Restrictions on end-user can exist depsite being open sourced
 - Free open source software points more to the price than freedom.
 
-<a id="org3896d22"></a>
 
 ## Free Software Movement
 
@@ -41,8 +21,6 @@
 - Monetization can exist, if it still respects these four freedoms.
   principles.
   
-
-<a id="org603eae4"></a>
 
 # UNIX
 
@@ -59,14 +37,12 @@
   - Hierarchial file-system
   - Everything is a file
   - Plain text data
-  - Piping
   - a **kernel** between hardward and processes
 - Components of every `*N*X` system:
   - Kernel
   - Shell + essential commands
   - Utilities
 
-<a id="orgce9d735"></a>
 
 ## UNIX Philosophy
 
@@ -74,25 +50,17 @@
 - Programs should be able to be &ldquo;piped&rdquo; and work together.
 - Data in communication and output should be plain text.
 
-<a id="org7551ed2"></a>
 
 # Linux and/or GNU
 
-<a id="org96167eb"></a>
-
 ## GNU
-
-![img](./images/stallman.png)
 
 - _Richard Stallman_ started **GNU Project** in 1984.
 - Ecosystem of libre softwares.
 - Hurd
 
-<a id="orge8c5957"></a>
 
 ## Linux
-
-![img](./images/linus.jpg)
 
 - _Linus Torvalds_ Started creating the Linux kernel in 1991.
 - Based on the Unix system developed at Bell Labs.
