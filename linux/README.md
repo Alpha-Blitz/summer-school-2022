@@ -120,5 +120,5 @@
 ## Ubuntu
 
 - Graphical installer - minimal configurations.
-- Beginner friendly: GNOME already available (+lot of bloat)
+- Beginner friendly: comes with default GNOME desktop. 
 - Lot of packages available in `apt`.
