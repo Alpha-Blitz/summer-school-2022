@@ -1,4 +1,4 @@
-![banner](/img/banner-summer-school.webp)
+![banner](/img/poster-static.png)
 
 ---
 
