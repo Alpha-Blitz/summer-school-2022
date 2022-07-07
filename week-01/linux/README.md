@@ -1,8 +1,8 @@
-# Module 1.1 - 07/07/2021
+# Module 1.1 - 06/07/2022
 
 # FLOSS, Linux, and Version-Control
 
-## _Rajeshkumar K_
+### _Sumanth Hegde_ and _TA: Aditya Mohapatra_
 
 ## Overview
 

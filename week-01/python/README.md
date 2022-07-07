@@ -1,8 +1,8 @@
-# Module 1.2
+# Module 1.2 - 07/07/2022
 
 # Python
 
-### _Ashish Shroti_ and _Rajeshkumar_
+### _Sumanth Hegde_ and _TA: Aditya Mohapatra_
 
 ---
 
