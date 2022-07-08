@@ -1,3 +1,14 @@
+# Task for Linux
+
+## Part I
+
+Install Ubuntu in VirtualBox, open terminal, enter command `whoami;uname --all` and post the screenshot of the Virtual Machine.
+
+## Part II
+
+Use the `apt` package manager to update and upgrade the packages. Hint: Use `sudo apt update` && `sudo apt upgrade`
+Install neofetch using `apt install` and after successful installation use the command `neofetch` in terminal and post the screenshot.
+
 # Task for Python
 
 ## Problem - Inverted ROT-N Cipher
